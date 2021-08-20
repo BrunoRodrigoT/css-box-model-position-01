@@ -1,0 +1,43 @@
+#img1{
+    border-style: double;
+    border-color: aquamarine;
+    margin: 5px;
+    padding: 10px;
+    width: 300px;
+    height: 200px;
+}
+#img2{
+    border-style: dashed;
+    border-color:  lime;
+    margin: 5px;
+    padding: 10px;
+    width: 300px;
+    height: 200px;
+}
+#img3{
+    border-style: groove;
+    border-color: yellowgreen;
+    margin: 5px;
+    padding: 10px;
+    width: 300px;
+    height: 200px;
+}
+#img4{
+    border-style: groove;
+    border-color: darkcyan;
+    margin: 5px;
+    padding: 10px;
+    width: 200px;
+    height: 200px;
+}
+#img5{
+    border-style: outset;
+    border-color: darkred;
+    margin: 5px;
+    padding: 10px;
+    width: 200px;
+    height: 200px;
+}
+body{
+    background-color: black;
+}
